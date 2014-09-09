@@ -1,0 +1,41 @@
+.header {
+	padding: 20px 20px;
+	background: #E5E6EC;
+	overflow: auto;
+}
+
+h1,h2,h3,h4,h5,h6,
+.h1,.h2,.h3,.h4,.h5,.h6 {
+	margin-top: 0px;
+}
+iframe {
+	width: 100%;
+	height:	100%;
+	border: none;
+}
+
+.container {
+	width: 100%;
+	padding: 0px;
+}
+#logo {
+	font-family: 'Roboto Slab', Georgia, serif;
+	font-weight: bold;
+	color: #314672;
+}
+
+h3 .siteName {
+	font-weight: bold;
+}
+
+#prev, #next {
+	display: none;
+}
+#prev { float: left; }
+#next, #submit { float: right; }
+
+textarea { margin-bottom: 10px; }
+
+.siteinfo {
+	font-size: 12px;
+}
